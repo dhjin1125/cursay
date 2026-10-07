@@ -27,3 +27,11 @@ pnpm dev
 - 회사 홈페이지: [nodeoff.kr](https://nodeoff.kr)
 
 현재 개발 상태와 공개 주소는 회사 홈페이지와 함께 관리합니다.
+
+## 공개 이력과 개발 경과
+
+2026년 10월 7일 기존 비공개 작업을 정리해 처음 공개한 저장소입니다. 개발 시작일과 공개 커밋 날짜는 다릅니다. [개발 경과와 공개 범위](docs/development-history.md)를 확인해 주세요.
+
+## 현재 연결 방식
+
+현재 코드의 Codex/ChatGPT 연동을 Claude API 연동이라고 표시하지 않습니다. 내부 `local.minkyu.*` 레거시 식별자는 기존 macOS 권한 호환성을 위해 유지하며, 공개 운영자는 Nodeoff입니다. Nodeoff의 이번 Claude 도입 우선 제품은 [Nurse Board](https://nodeoff.kr/products/nurse-board#claude-plan)입니다.
